@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sortNumbers/static/js/main.b615d8c4.js",
+    "index.html": "/sortNumbers/index.html",
+    "main.b615d8c4.js.map": "/sortNumbers/static/js/main.b615d8c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b615d8c4.js"
+  ]
+}
